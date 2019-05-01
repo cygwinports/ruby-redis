@@ -1,0 +1,11 @@
+inherit rubygem
+
+NAME="ruby-redis"
+VERSION=3.3.5
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby Redis API"
+DESCRIPTION="A Ruby client that tries to match Redis API one-to-one, while still
+providing an idiomatic interface."
+
+ARCH=noarch
